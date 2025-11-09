@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For Terminal
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ANSI	KEYWORD1
+ESCAPE	KEYWORD1
+SEQUENCES	KEYWORD1
+OUTPUT	KEYWORD1
+PRINT	KEYWORD1
+COLOR	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+println	KEYWORD2
+print	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+ANSI_Output	KEYWORD2
+ANSI_Print	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
